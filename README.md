@@ -1,5 +1,5 @@
 # Meteorite Landings Using D3.js
-Analysing the Evolution of Global Spatial Distribution and Characteristics of Meteorite Falls Over Successive Years
+Analysing the Evolution of Global Spatial Distribution and Characteristics of Meteorite Falls Over Successive Years.
 
 Here's the dataset used to build this: https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/meteorite-strike-data.json
 
