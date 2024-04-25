@@ -245,9 +245,9 @@
       }
 
       const downloadButton = d3.select("#download-button");
-      downloadButton.on("click", downloadVisualisation);
+      downloadButton.on("click", downloadVisualization);
 
-      function downloadVisualisation() {
+      function downloadVisualization() {
         const svgElement = document.getElementById("map");
         const svgData = new XMLSerializer().serializeToString(svgElement);
         const canvas = document.createElement("canvas");
@@ -260,7 +260,7 @@
           const pngData = canvas.toDataURL("image/png");
           const downloadLink = document.createElement("a");
           downloadLink.href = pngData;
-          downloadLink.download = "visualisation.png";
+          downloadLink.download = "visualization.png";
           downloadLink.click();
         };
         img.src =
