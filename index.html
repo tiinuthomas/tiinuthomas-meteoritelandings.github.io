@@ -245,9 +245,9 @@
       }
 
       const downloadButton = d3.select("#download-button");
-      downloadButton.on("click", downloadVisualization);
+      downloadButton.on("click", downloadVisualisation);
 
-      function downloadVisualization() {
+      function downloadVisualisation() {
         const svgElement = document.getElementById("map");
         const svgData = new XMLSerializer().serializeToString(svgElement);
         const canvas = document.createElement("canvas");
