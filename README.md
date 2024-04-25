@@ -5,4 +5,4 @@ Here's the dataset used to build this: https://raw.githubusercontent.com/FreeCod
 
 The live viewing of the visualization can be accessed via the designated link: https://tiinuthomas.github.io/tiinuthomas-meteoritelandings.github.io
 
-![alt text](https://github.com/tiinuthomas/tiinuthomas-meteoritelandings.github.io/blob/main/preview?raw=true)
+<img width="1510" alt="preview" src="https://github.com/tiinuthomas/tiinuthomas-meteoritelandings.github.io/assets/161048170/15a5cfbb-cd31-4d4c-bd43-f335e8cac6d1">
